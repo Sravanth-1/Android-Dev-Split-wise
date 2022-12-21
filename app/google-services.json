@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338938075301",
+    "firebase_url": "https://settle-up-arjun-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "settle-up-arjun",
+    "storage_bucket": "settle-up-arjun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338938075301:android:62ec98f6dd2f59cf2b154c",
+        "android_client_info": {
+          "package_name": "com.example.settleup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338938075301-49prkhc332ac9ltf9d28lsudbi3jp3a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSGWMh4GfFQW1kbdrfDPf2kUd7TDUlzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338938075301-2aio3lskau81l8m6jvj0v0ikcpa1eu6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
